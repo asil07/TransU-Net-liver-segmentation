@@ -4,6 +4,7 @@ Welcome to the **TransUNet** repository! This project combines **Transformers** 
 
 ## 🌟 Key Features
 
+
 - **Hybrid Architecture**: Merges the self-attention mechanism of **Transformers** with the localization strength of **U-Net**.
 - **Multi-Scale Feature Extraction**: Captures both global and local information, crucial for medical image analysis.
 - **Optimized for Medical Image Segmentation**: Specifically tuned to handle the unique challenges of medical imaging, such as varying resolution and structure sizes.
